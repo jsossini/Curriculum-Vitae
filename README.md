@@ -17,4 +17,4 @@ Para garantizar una visualización óptima y rápida desde cualquier dispositivo
 * **Formación:** Bachiller en Ingeniería de Sistemas (UNJFSC) con Certificaciones Oficiales de Google y PeopleCert.
 
 ---
-*Nota: Si prefieres la descarga directa del archivo fuente en formato PDF para sistemas ATS, puedes encontrarlo en la lista de archivos de este repositorio.*
+*Nota: El documento se sirve en alta disponibilidad a través de GitHub Pages para optimizar los tiempos de carga remota y asegurar la compatibilidad entre plataformas móviles y de escritorio.*
