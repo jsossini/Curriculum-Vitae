@@ -7,7 +7,7 @@ Bienvenido a mi repositorio de perfil profesional. Aquí encontrarás el acceso 
 ### 🚀 Acceso Inmediato e Impecable
 Para garantizar una visualización óptima y rápida desde cualquier dispositivo (Móvil, Tablet o PC) sin descargas lentas, haz clic en el siguiente enlace:
 
-## 🔗 [👉 VER CURRÍCULUM VITAE AQUÍ 👈](https://jsossini.github.io/Curriculum-Vitae/CV_Juan_Diego_Sosa.pdf)
+## 🔗 [👉 VER CURRÍCULUM VITAE AQUÍ 👈](https://jsossini.github.io/dcv-jdsa/CV_JuanDiego_Sosa.pdf)
 
 ---
 
